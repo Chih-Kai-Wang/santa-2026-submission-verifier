@@ -1,5 +1,7 @@
 # santa-2026-submission-verifier: a strict local verifier for Santa 2026 – The Elf Calculator
 
+**English** · [繁體中文](README.zh-TW.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md)
+
 `santa2026_verify.py` is a single Python file (standard library only, Python ≥ 3.8) that checks a submission for the
 Kaggle competition *Santa 2026 – The Elf Calculator* against the published rules and computes its score. This
 README goes through the rules and explains why each check exists, so it also works as an introduction to the
